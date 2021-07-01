@@ -266,3 +266,124 @@
        
 //        if("car" < "cat"){ alert("car is smaller than cat"); }
 
+
+//                                         grades 
+
+
+// var marks = 300
+// var bio =+ prompt('enter biology marks')
+// var phy =+ prompt('enter physics marks')
+// var chem =+ prompt('enter chemistry marks')
+
+// var marksObtained = bio + phy + chem
+// var per = marksObtained / 300 * 100
+// var remarks 
+// document.write('your total marks are :' + marksObtained + '<br>')
+// document.write('percentage = ' + per + '%'+ '<br>' )
+
+
+// if (per >= 20 && per <= 69) {
+//    document.write('fail') 
+//    document.write( remarks = ' you need improvment ' ) 
+// }
+// else if(per >= 70 && per <= 79){
+//     document.write('A')
+//    document.write( remarks = ' good job ') 
+    
+// }
+// else if(per >= 80 && per <= 89){
+//    document.write('A-one') 
+//    document.write( remarks = ' outstanding performance ') 
+   
+// }
+
+//                       guess game
+
+// var secret = 7
+
+// var num = prompt ('guess the secret number from 1-10')
+
+
+// if (num = 1 || 2 || 3 || 4 || 5 || 9 || 10 ) {
+//    document.write('wrong') 
+// }
+// else if(num = 6 || 8) {
+//    document.write('close to the correct answers') 
+// }
+// else if (Num = 7){
+//     document.write('BINGO!!')
+// }
+
+//                         divisable by3
+
+// var a = prompt('enter a number')
+// var num = a % 3 
+
+// if (num == 0) {
+//     document.write('it is divisible by 3')
+// }else{
+//     document.write('it is not divisible by 3')
+    
+// }
+
+//                        even / odd
+
+//  var a = prompt('enter a number')
+// var num = a % 2 
+
+// if (num == 0) {
+//     document.write('even')
+// }else{
+//     document.write('odd')
+    
+// }
+
+//                            calculator
+// var num1  =+ prompt(' enter first number')
+// var op = prompt('enter + - * / ')
+// var num2  =+ prompt(' enter second number')
+
+
+// if (op == '+') {
+//     document.write(num1 + num2)
+// }
+// else if (op == '-') {
+//         document.write(num1 - num2)
+// }
+// else if (op == '/') {
+//         document.write(num1 / num2)
+// }
+// else if (op == '*') {
+//         document.write(num1 * num2)
+// }
+
+
+//                                                            chapter 12-13
+
+//  var num1 = prompt('enter first number')
+// var num2 = prompt('enter second number')
+
+// if (num1 == num2) {
+//     document.write(num1 + ' equal ' + num2 )
+// }
+// else if (num1 < num2){
+//     document.write(num1 + ' less then ' + num2 )
+// }
+// else if (num1 > num2){
+//     document.write(num1 + ' greater then ' + num2 )
+// }
+
+//                                       positive or negative
+
+// var num = prompt('enter number ')
+
+// if (num = '-') {
+//     document.write('number is negative')
+// }
+// else if (num ){
+//     document.write('number is positive')
+// }
+// else if (num = 0){
+//     document.write('number is zero')
+// }
+
